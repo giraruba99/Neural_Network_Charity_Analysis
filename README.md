@@ -11,5 +11,16 @@
 
   * Deliverable 2
 
-  - 
+  - In this step we were able to succesfuly add two layers, with 30 and 80 Neurons .
+  - For the activation function, we used relu for both hidden layers.
+  - For the output layet, we used Sigmoid activation function.
+  
+  * Deliverable 3 
+
+  - In this step we created 5 hidden layers, out of which the 1st layers was with 60 Neurons and the rest 4 layers were with 70 neurons each.
+
+
+## Summary and Conclusion
+
+- Finally it can be concluded that, our deep learning model does not reach our target of 75% accuracy. But over all, it proved the deep learning system to be effective and realiable method of machine learning that can help a lot of business decisions based on trained models.
 
