@@ -3,7 +3,7 @@
 - The main purpose of this analysis is to use deep learning (neural network) to study how success of charitable donation, that way we can correctly predict trens for future. 
 
 ## Result and Analysis
-  * Deliverable 1
+  ### Deliverable 1
 
   - In the data processing step, we were able to succesfully remove the NAME and EIN colums as they are not needed for the analysis.
   - When looking for target model, we found the Is-Successful column as out target model.
